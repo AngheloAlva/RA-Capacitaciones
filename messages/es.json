@@ -1,0 +1,101 @@
+{
+  "Navbar": {
+    "home": "Inicio",
+    "courses": "Cursos",
+    "about": "Acerca de",
+    "contact": "Contacto",
+    "account": {
+      "label": "Mi Cuenta",
+      "login": "Iniciar sesión",
+      "register": "Registrarse",
+      "logout": "Cerrar sesión",
+      "profile": "Perfil"
+    },
+    "language": {
+      "label": "Idioma",
+      "spanish": "Español",
+      "english": "Inglés"
+    }
+  },
+  "Pages": {
+    "Home": {
+      "meta": {
+        "title": "Inicio",
+        "description": "Página de inicio"
+      },
+      "hero": {
+        "topHeader": "Impulsa tu carrera y tu empresa",
+        "title": "Capacitación <feature>profesional</feature> en tecnología y automatización",
+        "description": "Domina herramientas clave como Power BI, Excel y Power Automate con cursos diseñados para profesionales y empresas. Aprende a tu ritmo con contenido actualizado y expertos en la industria.",
+        "cta": "Explora los cursos",
+        "cta2": "Capacitación para empresas"
+      },
+      "featureCourses": {
+        "title": "Cursos destacados",
+        "description": "Aprende a tu ritmo con contenido actualizado y expertos en la industria.",
+        "cta": "Ver todos los cursos"
+      },
+      "aboutUs": {
+        "title": "Sobre nosotros",
+        "description": "<p>En <feature>RA Capacitaciones</feature>, nos especializamos en la formación profesional y el desarrollo de habilidades clave para el entorno laboral moderno. Nuestro enfoque está en capacitar a individuos y empresas en herramientas tecnológicas como Power BI, Excel, Power Automate, SQL y más, impulsando su productividad y toma de decisiones basadas en datos.</p><p>La tecnología avanza rápidamente, y creemos que el conocimiento es la clave para mantenerse competitivo en un mundo en constante cambio. A través de cursos prácticos, actualizados y orientados a resultados, ayudamos a nuestros alumnos a aplicar de inmediato lo aprendido, optimizando procesos y mejorando la eficiencia en sus organizaciones.</p><p>Nuestro compromiso es ofrecer una experiencia de aprendizaje clara, efectiva e innovadora, preparando a profesionales y empresas para enfrentar los desafíos del futuro con confianza y capacidad.</p>"
+      },
+      "plansOverview": {
+        "title": "Nuestros Planes",
+        "benefits": "Beneficios del plan:",
+        "basic": {
+          "featureTitle": "Aprende a tu ritmo",
+          "name": "Plan Básico",
+          "subscribe": "Suscribirse",
+          "description": "Ideal para quienes buscan una introducción a las herramientas sin compromisos. Un plan accesible con cursos esenciales y contenido estructurado.",
+          "benefits": {
+            "0": "Acceso a cursos básicos de Power BI, Excel y SQL",
+            "1": "Material de apoyo descargable",
+            "2": "Clases pregrabadas disponibles 24/7",
+            "3": "Comunidad de aprendizaje para consultas"
+          }
+        },
+        "profesional": {
+          "featureTitle": "Lleva tus habilidades al siguiente nivel",
+          "name": "Plan Profesional",
+          "subscribe": "Suscribirse",
+          "description": "Para profesionales que buscan especialización y mejorar su desempeño con herramientas avanzadas y proyectos prácticos.",
+          "benefits": {
+            "0": "Acceso a cursos intermedios y avanzados (Power BI, Excel, Power Automate, Power Apps, SQL)",
+            "1": "Certificación de finalización",
+            "2": "Clases en vivo con instructores expertos",
+            "3": "Soporte técnico y académico personalizado",
+            "4": "Ejercicios y proyectos aplicados al mundo real"
+          }
+        },
+        "company": {
+          "featureTitle": "Transforma tu equipo con formación a medida",
+          "name": "Plan Empresarial",
+          "description": "Diseñado para empresas que buscan potenciar a su equipo con capacitación especializada y estrategias adaptadas a su sector.",
+          "contact": "Contáctanos",
+          "benefits": {
+            "0": "Capacitación personalizada según las necesidades de la empresa",
+            "1": "Acceso a todos los cursos y materiales exclusivos",
+            "2": "Sesiones en vivo con enfoque práctico y casos reales",
+            "3": "Análisis de datos y automatización aplicada al negocio",
+            "4": "Soporte prioritario y asesoría especializada"
+          }
+        },
+        "cta": "Más detalles sobre los planes"
+      }
+    }
+  },
+  "Footer": {
+    "title": "RA Capacitaciones",
+    "contact": {
+      "title": "Contáctanos",
+      "email": "Contactanos por correo electrónico",
+      "phone": "Contactanos por telefono"
+    },
+    "links": {
+      "title": "Enlaces",
+      "courses": "Cursos",
+      "about": "Acerca de",
+      "contact": "Contacto"
+    }
+  }
+}
