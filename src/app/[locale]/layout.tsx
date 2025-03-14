@@ -12,6 +12,7 @@ import "@fontsource-variable/work-sans"
 import type { Metadata } from "next"
 
 import "./globals.css"
+import Header from "@/components/navbar/Header"
 
 export const metadata: Metadata = {
 	title: "RA Capacitaciones",
@@ -38,14 +39,7 @@ export default async function RootLayout({
 			<body className="font-general selection:bg-a-secondary overflow-x-hidden antialiased selection:text-white">
 				<ThemeProvider attribute={"class"} defaultTheme="system" enableSystem>
 					<NextIntlClientProvider messages={messages}>
-						<div className="grid w-screen grid-cols-12 grid-rows-2">
-							<div className="col-span-1 row-span-1 h-16 border-t border-neutral-800 dark:border-neutral-200" />
-							<div className="col-span-10 row-span-1 h-16 border-x border-t border-neutral-800 md:col-span-6 dark:border-neutral-200" />
-							<div className="row-span-1 hidden h-16 border-t border-r border-neutral-800 md:col-span-4 md:block dark:border-neutral-200" />
-							<div className="col-span-1 row-span-1 h-16 border-t border-neutral-800 dark:border-neutral-200" />
-
-							{/* <Navbar /> */}
-						</div>
+						<Header />
 
 						{children}
 					</NextIntlClientProvider>
